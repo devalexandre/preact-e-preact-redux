@@ -1,0 +1,1 @@
+export  const COUTER = ({contador,...state},{data}) =>({ contador:data,...state});
